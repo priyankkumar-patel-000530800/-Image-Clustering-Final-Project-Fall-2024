@@ -73,7 +73,7 @@ keras
 For any questions or clarifications, please reach out to the project contributors:
 
 - **Priyankkumar Patel and Neel Patel**: 
-- **Tirth Patel and Nachiketbhai Prajapati**: [Contact Details]
+- **Tirth Patel and Nachiketbhai Prajapati**: 
 
 ---
 
